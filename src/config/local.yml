@@ -1,0 +1,4 @@
+flatten_cols_map:
+  "json_string_root.foo": "foo"
+  "json_string_root.hoge.bar": "hoge_bar"
+  "json_string_root.hoge.huga": "hoge_huga"

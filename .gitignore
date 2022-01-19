@@ -1,0 +1,16 @@
+.env
+*.log
+metastore/
+metastore_db/
+venv/
+.ipynb_checkpoints
+.vscode
+tmp/
+__pycache__/
+.bash_history
+
+.ivy2
+.viminfo
+.cache
+libs/
+dist/

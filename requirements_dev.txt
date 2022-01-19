@@ -1,0 +1,7 @@
+numpy
+pandas
+jupyterlab
+flatten_json
+boto3
+python-dotenv
+pyyaml
